@@ -3,7 +3,7 @@ import Hero from "./Hero"
 import React from "react"
 import Image from "next/image"
 import google from "../../assets/google.png"
-import apple from "../../assets/apple.png"
+import apple from "../../assets/Apple.png"
 
 export default function SignUpPage() {
   return (
